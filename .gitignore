@@ -1,0 +1,17 @@
+```gitignore
+# File di log e temporanei
+*.log
+*.jou
+*.str
+*.bak
+*.tmp
+
+# File di sintesi di Vivado
+*.xpr
+*.runs/
+*.gen/
+*.sim/
+
+# Backup di sistema
+.DS_Store
+Thumbs.db
